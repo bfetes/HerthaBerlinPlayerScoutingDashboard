@@ -1,0 +1,41 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+Kamil Grabara\62182b1d,pl POL,GK,22,32,32,2880,32,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+Pep Biel\1c59240b,es ESP,MFFW,24,32,30,2601,28.9,11,6,11,0,0,3,0,0.38,0.21,0.59,0.38,0.59,Matches
+Nicolai Boilesen\08fe932d,dk DEN,DF,29,26,24,2167,24.1,0,0,0,0,1,5,1,0,0,0,0,0,Matches
+Lukas Lerager\1b82f8df,dk DEN,MF,28,29,23,2089,23.2,6,1,6,0,0,7,0,0.26,0.04,0.3,0.26,0.3,Matches
+Peter Ankersen\df525574,dk DEN,DF,30,28,23,1998,22.2,1,4,1,0,0,3,0,0.05,0.18,0.23,0.05,0.23,Matches
+Kevin Diks\f179ee11,nl NED,DF,24,26,21,1950,21.7,2,3,2,0,0,6,1,0.09,0.14,0.23,0.09,0.23,Matches
+Davit Khocholava\862fa9fb,ge GEO,DF,28,22,21,1822,20.2,1,1,1,0,0,10,0,0.05,0.05,0.1,0.05,0.1,Matches
+Rasmus Falk\762179d9,dk DEN,MF,29,22,20,1814,20.2,0,3,0,0,0,3,0,0,0.15,0.15,0,0.15,Matches
+Jens Stage\1fffae99,dk DEN,MF,24,22,19,1714,19,5,1,5,0,0,4,0,0.26,0.05,0.32,0.26,0.32,Matches
+Victor Bernth Kristiansen\505486d6,dk DEN,DF,18,21,19,1658,18.4,0,4,0,0,0,2,0,0,0.22,0.22,0,0.22,Matches
+Jonas Wind\2077ae86,dk DEN,FW,22,16,15,1293,14.4,6,2,5,1,1,3,0,0.42,0.14,0.56,0.35,0.49,Matches
+William Vick\731302dc,dk DEN,MFFW,18,26,15,1266,14.1,2,3,2,0,0,0,0,0.14,0.21,0.36,0.14,0.36,Matches
+Denis Vavro\08990838,sk SVK,DF,25,14,14,1259,14,1,1,1,0,0,4,0,0.07,0.07,0.14,0.07,0.14,Matches
+Zeca\f15b778f,gr GRE,MF,32,11,11,911,10.1,1,1,1,0,0,4,0,0.1,0.1,0.2,0.1,0.2,Matches
+Roony Bardghji\88ce7ddc,se SWE,MFFW,15,13,10,742,8.2,2,0,2,0,0,1,0,0.24,0,0.24,0.24,0.24,Matches
+Viktor Claesson\b3a712de,se SWE,FWMF,29,10,9,736,8.2,1,3,1,0,0,0,0,0.12,0.37,0.49,0.12,0.49,Matches
+Paul Mukairu\dbfbdf06,ng NGA,MFFW,21,15,6,620,6.9,0,1,0,0,0,1,0,0,0.15,0.15,0,0.15,Matches
+Khouma Babacar\422ec08a,sn SEN,FW,28,14,6,565,6.3,3,2,3,0,0,2,0,0.48,0.32,0.8,0.48,0.8,Matches
+Hákon Arnar Haraldsson\e2ae54db,is ISL,MFFW,18,11,6,537,6,4,0,4,0,0,0,0,0.67,0,0.67,0.67,0.67,Matches
+Mohammed Daramy\06a1d642,dk DEN,MFFW,19,6,6,433,4.8,2,1,2,0,0,0,0,0.42,0.21,0.62,0.42,0.62,Matches
+Ísak Jóhannesson\c16c4e3b,is ISL,MFFW,18,16,5,531,5.9,4,1,4,0,0,2,0,0.68,0.17,0.85,0.68,0.85,Matches
+Elias Jelert\213f0daf,dk DEN,DF,18,11,4,439,4.9,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Nicolai Jørgensen\dff19848,dk DEN,FW,30,9,4,342,3.8,1,0,1,0,0,1,0,0.26,0,0.26,0.26,0.26,Matches
+Kamil Wilczek\8513b4e6,pl POL,FW,33,6,3,288,3.2,1,0,1,0,0,0,0,0.31,0,0.31,0.31,0.31,Matches
+Ruben Gabrielsen\9e64fc85,no NOR,DF,29,4,2,220,2.4,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rasmus Højlund\491a433d,dk DEN,FW,18,15,1,306,3.4,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Marios Oikonomou\3b9858f5,gr GRE,DF,28,5,1,108,1.2,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Victor Nelsson\e53b5534,dk DEN,DF,22,2,1,92,1,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Akinkunmi Amoo\bc2d4118,ng NGA,MF,19,2,1,63,0.7,1,0,1,0,0,0,0,1.43,0,1.43,1.43,1.43,Matches
+Luther Singh\e4377b65,za RSA,FWMF,23,4,0,63,0.7,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Andri Fannar Baldursson\61f2f56a,is ISL,MF,19,3,0,48,0.5,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Pierre Bengtsson\d1992a3b,se SWE,DFMF,33,3,0,36,0.4,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Mamoudou Karamoko\23a10591,fr FRA,MF,22,2,0,26,0.3,0,1,0,0,0,0,0,0,3.46,3.46,0,3.46,Matches
+Valdemar Jensen\cd1629bc,dk DEN,DF,18,3,0,21,0.2,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Orri Steinn Óskarsson\d0b8e745,is ISL,FW,16,1,0,19,0.2,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Viktor Fischer\b5920350,dk DEN,FWMF,27,0,0,,,,,,,,,,,,,,,Matches
+Johan Guadagno\ecbec9dc,se SWE,GK,18,0,0,,,,,,,,,,,,,,,Matches
+Karl-Johan Johnsson\a56bd2ee,se SWE,GK,31,0,0,,,,,,,,,,,,,,,Matches
+Bryan Oviedo\31faf295,cr CRC,DFMF,31,0,0,,,,,,,,,,,,,,,Matches
+Marko Stamenic\690d1049,nz NZL,MF,19,0,0,,,,,,,,,,,,,,,Matches

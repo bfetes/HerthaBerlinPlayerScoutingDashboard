@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+Tim Murray\dd0d043b,us USA,GK,33,26,26,2312,25.7,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Henri Aalto\690acb29,fi FIN,DF,31,23,22,1964,21.8,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+Lucas Kaufmann\38d6b05b,br BRA,FW,29,22,20,1734,19.3,3,0,1,2,2,4,0,0.16,0,0.16,0.05,0.05,Matches
+Konsta Rasimus\1ce12fdf,fi FIN,MF,30,25,18,1708,19,1,0,1,0,0,0,0,0.05,0,0.05,0.05,0.05,Matches
+Dani Hatakka\2326b3c5,fi FIN,DF,26,21,17,1483,16.5,1,2,1,0,0,5,0,0.06,0.12,0.18,0.06,0.18,Matches
+Edmund Arko-Mensah\5ec20548,gh GHA,DF,19,23,17,1454,16.2,2,2,2,0,0,8,1,0.12,0.12,0.25,0.12,0.25,Matches
+Ville Koski\57c151e4,fi FIN,MF,19,17,16,1442,16,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+Rui Modesto\4f9c2d8c,pt POR,FW,21,21,15,1364,15.2,2,0,2,0,0,3,0,0.13,0,0.13,0.13,0.13,Matches
+Otso Koskinen\602aaa23,fi FIN,MF,18,24,14,1288,14.3,2,0,1,1,1,3,0,0.14,0,0.14,0.07,0.07,Matches
+Darren Smith\2587e36f,za RSA,FW,24,24,13,1276,14.2,8,0,8,0,0,3,0,0.56,0,0.56,0.56,0.56,Matches
+Niklas Pyyhtiä\88f53b75,fi FIN,MF,17,17,12,1131,12.6,2,0,2,0,0,1,0,0.16,0,0.16,0.16,0.16,Matches
+Tapio Heikkilä\bdf77152,fi FIN,DF,30,12,12,1034,11.5,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+Jonas Levänen\7ca95814,fi FIN,MF,27,20,12,1015,11.3,0,0,0,0,0,5,0,0,0,0,0,0,Matches
+Jerry Voutilainen\e297ca78,fi FIN,MF,25,13,12,816,9.1,4,0,4,0,0,2,1,0.44,0,0.44,0.44,0.44,Matches
+Duarte Tammilehto\833e11d2,fi FIN,MF,30,12,11,964,10.7,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+Nasiru Zakaria Banahene\d35e6c55,gh GHA,DF,20,22,10,943,10.5,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Jean Marie Dongou\fd0bb7d2,cm CMR,FW,25,13,10,893,9.9,3,0,3,0,0,0,0,0.3,0,0.3,0.3,0.3,Matches
+Demba Savage\d2e25ee1,gm GAM,FWMF,32,15,8,756,8.4,3,0,2,1,1,0,0,0.36,0,0.36,0.24,0.24,Matches
+Izunna Uzochukwu\883f81d7,ng NGA,MF,30,13,8,671,7.5,0,1,0,0,0,2,0,0,0.13,0.13,0,0.13,Matches
+Matias Rale\adf51131,fi FIN,DF,19,13,7,712,7.9,1,0,1,0,0,0,0,0.13,0,0.13,0.13,0.13,Matches
+Luís Henrique\ae67800f,br BRA,FW,22,8,7,551,6.1,3,0,3,0,0,0,0,0.49,0,0.49,0.49,0.49,Matches
+Niilo Saarikivi\3dfdc28f,fi FIN,FW,17,15,5,497,5.5,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Juan Alegría\b78bc7f4,co COL,FW,18,10,3,313,3.5,2,0,2,0,0,1,1,0.58,0,0.58,0.58,0.58,Matches
+Roope Paunio\6a782f71,fi FIN,GK,18,2,1,118,1.3,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Otto Ollikainen\2f9c63f4,fi FIN,DF,20,2,1,93,1,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Pauli Katajamäki\861ac6a8,fi FIN,MF,19,5,0,68,0.8,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Benjamin Heikkinen\ed0614e6,fi FIN,FW,18,3,0,48,0.5,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Hannes Woivalin\04efa983,fi FIN,MF,18,1,0,26,0.3,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Daniel Heikkinen\99543b59,,MF,,1,0,12,0.1,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Idrissa Camara\675ce514,fi FIN,FW,19,0,0,,,,,,,,,,,,,,,Matches
+Otto Huuhtanen\ea51b9d1,fi FIN,GK,20,0,0,,,,,,,,,,,,,,,Matches

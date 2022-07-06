@@ -1,0 +1,34 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+Christian Sørensen\c8829a58,dk DEN,DF,28,32,32,2880,32,2,8,2,0,0,4,0,0.06,0.25,0.31,0.06,0.31,Matches
+Jakob Bonde\0effaa3b,dk DEN,MF,27,31,29,2502,27.8,6,1,3,3,4,6,0,0.22,0.04,0.25,0.11,0.14,Matches
+Mads Lauritsen\5a5c015e,dk DEN,DF,28,28,27,2346,26.1,2,0,2,0,0,8,1,0.08,0,0.08,0.08,0.08,Matches
+Lucas Lund Pedersen\20087b70,dk DEN,GK,21,26,26,2340,26,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+Jeppe Grønning\b289970e,dk DEN,MF,30,28,26,2255,25.1,1,1,1,0,0,7,0,0.04,0.04,0.08,0.04,0.08,Matches
+Justin Lonwijk\9cf14be5,nl NED,MF,21,28,26,2135,23.7,3,3,3,0,0,6,0,0.13,0.13,0.25,0.13,0.25,Matches
+Younes Bakiz\48ab6342,dk DEN,FW,22,27,24,1966,21.8,3,3,3,0,1,3,0,0.14,0.14,0.27,0.14,0.27,Matches
+Tobias Bech\eb6f92e8,dk DEN,FW,19,27,23,1758,19.5,3,2,3,0,0,6,0,0.15,0.1,0.26,0.15,0.26,Matches
+Jay-Roy Grot\9a8241af,nl NED,FW,23,25,21,1592,17.7,5,0,5,0,0,2,0,0.28,0,0.28,0.28,0.28,Matches
+Lars Kramer\239cbe00,nl NED,DF,22,23,20,1824,20.3,4,0,4,0,0,5,2,0.2,0,0.2,0.2,0.2,Matches
+Frans Dhia Putros\0102aa7e,iq IRQ,DF,28,27,17,1553,17.3,0,0,0,0,0,7,0,0,0,0,0,0,Matches
+Sebastian Grønning\8da24e7d,dk DEN,FW,24,17,16,1413,15.7,6,1,6,0,0,3,0,0.38,0.06,0.45,0.38,0.45,Matches
+Daniel Anyembe\c7e3b9e9,dk DEN,DF,23,21,15,1318,14.6,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Nicolas Bürgy\a4851d9e,ch SUI,DF,25,14,14,1260,14,2,0,2,0,0,2,0,0.14,0,0.14,0.14,0.14,Matches
+Clint Leemans\66e43504,nl NED,MF,25,29,11,1123,12.5,3,3,2,1,1,2,0,0.24,0.24,0.48,0.16,0.4,Matches
+Mikkel Andersen\63e905bc,dk DEN,GK,32,6,6,540,6,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Ibrahim Said\1815ae03,ng NGA,FW,19,19,4,526,5.8,1,1,1,0,0,2,0,0.17,0.17,0.34,0.17,0.34,Matches
+Alassana Jatta\43375c57,gm GAM,FW,22,25,3,577,6.4,3,0,3,0,0,0,0,0.47,0,0.47,0.47,0.47,Matches
+Sofus Berger Brix\c6e9b36b,dk DEN,MF,18,22,3,389,4.3,0,1,0,0,0,1,0,0,0.23,0.23,0,0.23,Matches
+Jan Žamb?rek\395880a4,cz CZE,MF,20,13,3,355,3.9,0,1,0,0,0,3,0,0,0.25,0.25,0,0.25,Matches
+Lorenzo Gordinho\79be9ee9,za RSA,DF,27,4,2,259,2.9,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+Anton Gaaei\6f7d7bc2,dk DEN,FW,18,5,2,190,2.1,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Jeff Mensah\bbeb2695,dk DEN,FW,28,6,1,188,2.1,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Mads Aaquist\9344895b,dk DEN,MF,26,5,1,98,1.1,0,1,0,0,0,0,0,0,0.92,0.92,0,0.92,Matches
+Mads Søndergaard\ee6cff70,dk DEN,MF,18,5,0,103,1.1,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Marokhy Ndione\227691ea,se SWE,FW,21,2,0,56,0.6,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Kellian van der Kaap\955aecc5,nl NED,DF,22,1,0,39,0.4,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Martin Huldahl\d0e1ff00,dk DEN,FW,16,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Frederik Christensen\a112ab29,dk DEN,FW,26,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Can Dursun\b18ffe4d,dk DEN,GK,28,0,0,,,,,,,,,,,,,,,Matches
+Christian Hauge\564da1a0,,GK,,0,0,,,,,,,,,,,,,,,Matches
+Kasper Kiilerich\a110416a,dk DEN,GK,15,0,0,,,,,,,,,,,,,,,Matches
+Christian Wagner\3dfa3391,dk DEN,FW,18,0,0,,,,,,,,,,,,,,,Matches

@@ -1,0 +1,40 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+Oliver Berg\6053df96,no NOR,FWMF,27,30,29,2597,28.9,12,5,9,3,3,1,0,0.42,0.17,0.59,0.31,0.49,Matches
+Romário\596e48ce,br BRA,MF,35,29,29,2562,28.5,4,2,4,0,0,4,0,0.14,0.07,0.21,0.14,0.21,Matches
+Piotr Johansson\5a471a3e,se SWE,MFDF,25,29,28,2530,28.1,0,4,0,0,0,2,0,0,0.14,0.14,0,0.14,Matches
+Carl Gustafsson\c7834633,se SWE,MF,20,29,28,2507,27.9,0,1,0,0,0,2,0,0,0.04,0.04,0,0.04,Matches
+Lars Sætra\40134a35,no NOR,DF,29,28,28,2504,27.8,0,1,0,0,0,3,0,0,0.04,0.04,0,0.04,Matches
+Sebastian Ring\cfe4071d,se SWE,DFMF,25,28,28,2449,27.2,3,2,3,0,0,9,0,0.11,0.07,0.18,0.11,0.18,Matches
+Lucas Hägg-Johansson\0e014062,se SWE,GK,26,26,26,2340,26,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+Jonathan Ring\a9780d60,se SWE,FWMF,29,28,26,2311,25.7,8,9,7,1,1,3,0,0.31,0.35,0.66,0.27,0.62,Matches
+Rasmus Sjöstedt\b8b8b314,se SWE,DF,28,23,22,1885,20.9,1,1,1,0,0,2,0,0.05,0.05,0.1,0.05,0.1,Matches
+Nils Fröling\5c9c3b66,se SWE,MFFW,20,27,22,1724,19.2,4,4,4,0,0,1,0,0.21,0.21,0.42,0.21,0.42,Matches
+Doug Bergqvist\73221bb0,se SWE,DF,27,17,15,1268,14.1,1,0,1,0,0,2,0,0.07,0,0.07,0.07,0.07,Matches
+Isak Jansson\a7664548,se SWE,FW,19,24,11,1206,13.4,6,3,6,0,0,2,0,0.45,0.22,0.67,0.45,0.67,Matches
+Filip Sachpekidis\08252569,se SWE,FWMF,23,20,11,947,10.5,0,2,0,0,0,2,0,0,0.19,0.19,0,0.19,Matches
+Johan Stenmark\a5a1a033,se SWE,DF,21,15,8,739,8.2,1,0,1,0,0,2,0,0.12,0,0.12,0.12,0.12,Matches
+Noah Shamoun\cb75ed1e,se SWE,FWMF,18,20,7,658,7.3,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Tobias Andersson\842b7900,se SWE,GK,26,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Henrik Löfkvist\5df150a5,se SWE,DF,25,6,2,227,2.5,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Isak Magnusson\2015ff07,se SWE,FW,22,5,2,158,1.8,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Elias Olsson\f539f7b7,se SWE,DF,17,5,1,226,2.5,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Victor Backman\cc9bac69,se SWE,MF,19,13,1,210,2.3,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+Erik Israelsson\e8ce206e,se SWE,MF,31,9,1,137,1.5,1,0,1,0,0,1,0,0.66,0,0.66,0.66,0.66,Matches
+Emin Nouri\b257f8b0,az AZE,DF,35,7,1,95,1.1,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+Lukas Rhöse\5c4da8de,se SWE,DF,20,3,0,28,0.3,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Johan Arvidsson\09758a88,se SWE,MF,20,1,0,18,0.2,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Moustafa Benshi\3293de09,sy SYR,MF,19,2,0,7,0.1,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Olle Lindh\27628e5a,se SWE,MF,17,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Isak Vidjeskog\819c5fcf,fi FIN,MF,16,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Casper Andersson\a6f7c931,se SWE,GK,15,0,0,,,,,,,,,,,,,,,Matches
+Edvin Crona\04187585,se SWE,MF,21,0,0,,,,,,,,,,,,,,,Matches
+Viktor Krüger\b604cb85,se SWE,DF,20,0,0,,,,,,,,,,,,,,,Matches
+Alex Mortensen\e27159a1,se SWE,MF,18,0,0,,,,,,,,,,,,,,,Matches
+Arton Podrimcaku\b5f70e31,se SWE,MF,19,0,0,,,,,,,,,,,,,,,Matches
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,

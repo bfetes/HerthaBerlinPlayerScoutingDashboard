@@ -1,0 +1,36 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+Mads Hermansen\c924b17d,dk DEN,GK,21,29,29,2610,29,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Anis Ben Slimane\9ade9ce1,tn TUN,MFFW,20,31,29,2480,27.6,2,4,2,0,0,6,0,0.07,0.15,0.22,0.07,0.22,Matches
+Andreas Maxsø\52fdf512,dk DEN,DF,27,27,27,2347,26.1,1,1,0,1,1,3,1,0.04,0.04,0.08,0,0.04,Matches
+Andreas Bruus\b088d5d3,dk DEN,MFDF,22,29,26,2246,25,3,1,3,0,0,5,0,0.12,0.04,0.16,0.12,0.16,Matches
+Simon Hedlund\5e167a35,se SWE,FWMF,28,29,26,2155,23.9,4,9,3,1,1,5,0,0.17,0.38,0.54,0.13,0.5,Matches
+Sigurd Rosted\5777eca0,no NOR,DF,27,26,24,2115,23.5,1,2,1,0,0,8,0,0.04,0.09,0.13,0.04,0.13,Matches
+Josip Radoševi?\6afcaaa3,hr CRO,MF,27,26,24,2070,23,1,1,1,0,0,3,1,0.04,0.04,0.09,0.04,0.09,Matches
+Kevin Mensah\7d06360d,dk DEN,MFDF,30,20,20,1748,19.4,1,1,1,0,0,2,0,0.05,0.05,0.1,0.05,0.1,Matches
+Kevin Tshiembe\fdae8b47,dk DEN,DF,24,19,17,1488,16.5,0,1,0,0,0,3,0,0,0.06,0.06,0,0.06,Matches
+Marko Divkovic\807cb743,hr CRO,FW,22,23,16,1311,14.6,1,1,1,0,0,3,0,0.07,0.07,0.14,0.07,0.14,Matches
+Blas Riveros\87d8b5a3,py PAR,DFMF,23,18,15,1315,14.6,0,4,0,0,0,0,0,0,0.27,0.27,0,0.27,Matches
+Mikael Uhre\be84c466,dk DEN,FW,26,16,15,1193,13.3,11,1,11,0,0,1,0,0.83,0.08,0.91,0.83,0.91,Matches
+Morten Frendrup\f4d60499,dk DEN,MF,20,15,13,1206,13.4,2,0,2,0,0,1,0,0.15,0,0.15,0.15,0.15,Matches
+Joe Bell\7825847e,nz NZL,MF,22,15,13,1095,12.2,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+Henrik Heggheim\8a3aabc1,no NOR,DF,20,14,11,1030,11.4,1,0,1,0,0,3,1,0.09,0,0.09,0.09,0.09,Matches
+Christian Cappis\25ef5b47,us USA,MF,21,27,10,1058,11.8,4,0,4,0,0,2,0,0.34,0,0.34,0.34,0.34,Matches
+Mathias Greve\98ca4feb,dk DEN,MFFW,26,25,8,924,10.3,1,1,1,0,0,1,0,0.1,0.1,0.19,0.1,0.19,Matches
+Mathias Kvistgaarden\49df363f,dk DEN,FW,19,16,8,758,8.4,5,1,5,0,0,1,0,0.59,0.12,0.71,0.59,0.71,Matches
+Anton Skipper\9430626a,dk DEN,DFMF,21,5,5,293,3.3,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Tobias Børkeeiet\2d54d501,no NOR,DFMF,22,7,4,415,4.6,1,0,1,0,0,2,0,0.22,0,0.22,0.22,0.22,Matches
+Andrija Pavlovi?\f0e3b343,rs SRB,FW,27,18,3,481,5.3,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Carl Björk\3b2bdc7e,se SWE,FW,21,11,3,325,3.6,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Thomas Mikkelsen\d0d98611,dk DEN,GK,37,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Jens Martin Gammelby\b648463f,dk DEN,MF,26,7,2,284,3.2,0,1,0,0,0,0,0,0,0.32,0.32,0,0.32,Matches
+Rezan Corlu\d171dc98,dk DEN,MF,23,3,1,103,1.1,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Frederik Ibsen\95827107,dk DEN,DF,21,4,0,41,0.5,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Jagvir Singh Sidhu\ddc5a43e,dk DEN,FW,20,4,0,38,0.4,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Oskar Fallenius\7004c558,se SWE,FW,19,5,0,31,0.3,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Peter Bjur\7c962fda,dk DEN,MF,21,3,0,27,0.3,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Yousef Salech\4cf80d1d,dk DEN,FW,19,2,0,23,0.3,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Andreas Pyndt Andersen\17e8b732,dk DEN,MF,20,1,0,18,0.2,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rasmus Wikström\1f050b89,se SWE,DF,20,1,0,8,0.1,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Christian Friedrich\85615790,dk DEN,DF,18,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Michael Lumb\0c0508dc,dk DEN,DF,33,0,0,,,,,,,,,,,,,,,Matches
+Jonathan Ægidius\ce9fd396,dk DEN,GK,19,0,0,,,,,,,,,,,,,,,Matches

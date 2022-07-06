@@ -1,0 +1,35 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+Even Hovland\d1fea02e,no NOR,DF,31,29,28,2565,28.5,2,2,2,0,0,1,0,0.07,0.07,0.14,0.07,0.14,Matches
+Erlend Dahl Reitan\6b14ce11,no NOR,DF,23,28,28,2490,27.7,1,8,1,0,0,4,0,0.04,0.29,0.33,0.04,0.33,Matches
+André Hansen\5e91ddf8,no NOR,GK,31,26,26,2314,25.7,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Adam Andersson\ecf8b85f,se SWE,DF,24,28,26,2306,25.6,0,4,0,0,0,3,1,0,0.16,0.16,0,0.16,Matches
+Carlo Holse\e248e62f,dk DEN,FWMF,21,29,25,2301,25.6,7,6,7,0,0,0,0,0.27,0.23,0.51,0.27,0.51,Matches
+Emil Ceide\98a84572,no NOR,FWMF,19,24,19,1525,16.9,5,3,5,0,0,2,0,0.3,0.18,0.47,0.3,0.47,Matches
+Dino Islamovi?\721608e5,me MNE,FW,27,21,17,1481,16.5,6,2,6,0,0,3,0,0.36,0.12,0.49,0.36,0.49,Matches
+Hólmar Örn Eyjólfsson\6e754273,is ISL,DF,30,16,16,1440,16,2,1,2,0,0,4,0,0.12,0.06,0.19,0.12,0.19,Matches
+Vebjørn Hoff\7b462b1e,no NOR,MF,24,16,16,1399,15.5,0,4,0,0,0,3,0,0,0.26,0.26,0,0.26,Matches
+Edvard Sandvik Tagseth\215918bf,no NOR,MF,20,21,14,1225,13.6,1,1,1,0,0,3,0,0.07,0.07,0.15,0.07,0.15,Matches
+Stefano Vecchia\023a32ea,se SWE,FWMF,26,17,13,1251,13.9,11,1,10,1,1,0,0,0.79,0.07,0.86,0.72,0.79,Matches
+Noah Holm\61b77d0a,no NOR,FW,19,15,13,1159,12.9,3,2,3,0,0,2,0,0.23,0.16,0.39,0.23,0.39,Matches
+Kristoffer Zachariassen\47dbe004,no NOR,MFFW,26,12,12,1080,12,8,2,8,0,0,4,0,0.67,0.17,0.83,0.67,0.83,Matches
+Per Ciljan Skjelbred\ecab64a0,no NOR,MF,33,17,11,936,10.4,1,2,1,0,0,4,0,0.1,0.19,0.29,0.1,0.29,Matches
+Pavle Vagi?\8f906c5f,se SWE,DFMF,21,9,9,755,8.4,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Markus Henriksen\26acecd2,no NOR,MF,28,9,9,703,7.8,1,0,1,0,0,3,1,0.13,0,0.13,0.13,0.13,Matches
+Anders Konradsen\60fd5334,no NOR,MF,30,16,8,792,8.8,2,0,2,0,0,0,0,0.23,0,0.23,0.23,0.23,Matches
+Olaus Skarsem\2c8c6968,no NOR,MFFW,22,16,8,692,7.7,1,3,1,0,0,1,0,0.13,0.39,0.52,0.13,0.52,Matches
+Jonathan Augustinsson\7311c03b,se SWE,DF,24,10,7,663,7.4,0,1,0,0,0,2,0,0,0.14,0.14,0,0.14,Matches
+Besim Šerbe?i?\5384e3bf,ba BIH,DF,22,8,7,633,7,1,0,1,0,0,1,0,0.14,0,0.14,0.14,0.14,Matches
+Alexander Tettey\75566759,no NOR,MFDF,34,6,5,470,5.2,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+Guillermo Molins\cda49f68,se SWE,FW,32,10,5,424,4.7,2,2,2,0,0,1,0,0.42,0.42,0.85,0.42,0.85,Matches
+Julian Faye-Lund\ca3fff03,no NOR,GK,21,5,4,386,4.3,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rasmus Wiedesheim\e23db68b,se SWE,FW,21,18,3,508,5.6,4,1,4,0,0,0,0,0.71,0.18,0.89,0.71,0.89,Matches
+Adrian Pereira\1c62f712,no NOR,DF,21,2,1,57,0.6,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Mikkel Ceide\1318200b,no NOR,DF,19,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Ole Christian Sæter\6f8fc4e0,no NOR,FW,24,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Ingmar Austberg\5da18780,no NOR,FW,16,0,0,,,,,,,,,,,,,,,Matches
+Marius Broholm\b5d543e4,no NOR,MF,16,0,0,,,,,,,,,,,,,,,Matches
+Pawel Churpalla\8b4bce6e,no NOR,FW,17,0,0,,,,,,,,,,,,,,,Matches
+Magnus Hammerås\68dee003,no NOR,DF,17,0,0,,,,,,,,,,,,,,,Matches
+Emanuel Kulego\97e3f69f,no NOR,FW,18,0,0,,,,,,,,,,,,,,,Matches
+Håkon Røsten\467ac9d0,no NOR,DF,15,0,0,,,,,,,,,,,,,,,Matches
+Sander Tangvik\93525deb,no NOR,GK,18,0,0,,,,,,,,,,,,,,,Matches

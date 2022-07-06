@@ -1,0 +1,41 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+Mads Fenger\df894060,dk DEN,DFMF,30,29,28,2543,28.3,1,4,1,0,0,5,0,0.04,0.14,0.18,0.04,0.18,Matches
+Gustav Ludwigson\585fe2f8,se SWE,FWMF,27,30,28,2501,27.8,11,5,11,0,0,1,0,0.4,0.18,0.58,0.4,0.58,Matches
+Mohanad Jeahze\ea93bcd9,iq IRQ,MFDF,23,27,27,2309,25.7,1,7,1,0,0,4,0,0.04,0.27,0.31,0.04,0.31,Matches
+Darijan Bojani?\aa09d373,se SWE,MF,26,29,23,1959,21.8,1,3,1,0,1,5,0,0.05,0.14,0.18,0.05,0.18,Matches
+Astrit Seljmani\830a34ec,xk KVX,FW,23,26,23,1952,21.7,9,6,8,1,1,6,0,0.41,0.28,0.69,0.37,0.65,Matches
+David Ousted\28269907,dk DEN,GK,35,22,21,1907,21.2,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Akinkunmi Amoo\bc2d4118,ng NGA,FWMF,18,29,21,1844,20.5,9,6,8,1,2,2,0,0.44,0.29,0.73,0.39,0.68,Matches
+Jón Guðni Fjóluson\7b8ff0ac,is ISL,DF,31,21,21,1816,20.2,1,0,1,0,0,2,0,0.05,0,0.05,0.05,0.05,Matches
+Jeppe Andersen\aadbb7bc,dk DEN,MF,28,26,20,1848,20.5,2,1,2,0,0,5,0,0.1,0.05,0.15,0.1,0.15,Matches
+Bjørn Paulsen\3f88e797,dk DEN,DF,29,20,18,1632,18.1,2,1,2,0,0,2,0,0.11,0.06,0.17,0.11,0.17,Matches
+Aziz Ouattara\d26727b4,ci CIV,MFDF,20,24,17,1480,16.4,2,0,2,0,0,6,0,0.12,0,0.12,0.12,0.12,Matches
+Simon Sandberg\05b00fef,se SWE,DFMF,26,24,16,1487,16.5,1,1,1,0,0,2,0,0.06,0.06,0.12,0.06,0.12,Matches
+Vladimir Rodi?\40c965a4,me MNE,MFDF,27,21,12,1057,11.7,1,1,1,0,0,0,0,0.09,0.09,0.17,0.09,0.17,Matches
+Richard Magyar\61e6f01e,se SWE,DF,29,15,11,937,10.4,1,0,1,0,0,3,0,0.1,0,0.1,0.1,0.1,Matches
+Abdul Khalili\668c0227,se SWE,MF,28,13,10,840,9.3,4,2,3,1,1,4,0,0.43,0.21,0.64,0.32,0.54,Matches
+Williot Swedberg\184fe4b2,se SWE,MF,16,19,8,756,8.4,2,1,2,0,0,2,0,0.24,0.12,0.36,0.24,0.36,Matches
+Oliver Dovin\9f12e0f8,se SWE,GK,18,8,8,703,7.8,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Aimar Sher\ef301f96,se SWE,MF,18,10,5,472,5.2,0,0,0,0,0,5,0,0,0,0,0,0,Matches
+David Accam\f5220ece,gh GHA,FWMF,30,13,4,461,5.1,1,1,1,0,0,2,0,0.2,0.2,0.39,0.2,0.39,Matches
+Aljoša Matko\9cac2edf,si SVN,FWMF,20,13,4,460,5.1,2,1,2,0,0,2,0,0.39,0.2,0.59,0.39,0.59,Matches
+Paulinho\b5b8cc43,br BRA,FW,34,11,2,310,3.4,1,0,1,0,0,2,0,0.29,0,0.29,0.29,0.29,Matches
+Davor Blaževi?\afbb68eb,se SWE,GK,27,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Bayéré Junior Loué\fbd12242,ci CIV,FW,20,5,1,75,0.8,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Axel Sjöberg\3774bc38,se SWE,MF,20,2,1,67,0.7,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Mayckel Lahdo\6b390f32,se SWE,FW,18,7,0,133,1.5,0,1,0,0,0,1,0,0,0.68,0.68,0,0.68,Matches
+Jusef Erabi\5106b69d,se SWE,FW,17,2,0,25,0.3,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Dennis Widgren\512a52c6,se SWE,DFMF,26,2,0,25,0.3,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Ben Engdahl\366a125e,se SWE,DF,17,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Abdul-Halik Hudu\4a26a7a0,gh GHA,MF,20,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Filston Mawana\4bb384a8,se SWE,FW,20,0,0,,,,,,,,,,,,,,,Matches
+Josefat Mendes\f882b0a1,se SWE,DF,18,0,0,,,,,,,,,,,,,,,Matches
+Ian Pettersson\438f3dac,se SWE,GK,18,0,0,,,,,,,,,,,,,,,Matches
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,

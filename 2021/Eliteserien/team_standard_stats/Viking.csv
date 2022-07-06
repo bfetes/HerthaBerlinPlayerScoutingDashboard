@@ -1,0 +1,34 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+Joe Bell\7825847e,nz NZL,MF,21,27,27,2387,26.5,1,8,1,0,0,5,0,0.04,0.3,0.34,0.04,0.34,Matches
+Veton Berisha\9c145144,no NOR,FW,26,28,27,2334,25.9,22,5,16,6,6,2,0,0.85,0.19,1.04,0.62,0.81,Matches
+Viljar Vevatne\fc5656a1,no NOR,DF,26,29,25,2225,24.7,1,1,1,0,0,2,0,0.04,0.04,0.08,0.04,0.08,Matches
+Harald Tangen\550f5516,no NOR,MF,20,27,22,1990,22.1,5,2,5,0,0,2,0,0.23,0.09,0.32,0.23,0.32,Matches
+Zlatko Tripi?\f6d4b6b2,no NOR,FWMF,28,23,22,1813,20.1,7,4,6,1,1,4,0,0.35,0.2,0.55,0.3,0.5,Matches
+Sebastian Sebulonsen\d62063b7,no NOR,DF,21,24,21,1791,19.9,3,0,3,0,0,2,0,0.15,0,0.15,0.15,0.15,Matches
+Kevin Kabran\a1d6139f,se SWE,FWMF,27,28,19,1812,20.1,3,6,3,0,0,3,0,0.15,0.3,0.45,0.15,0.45,Matches
+Kristoffer Løkberg\4e6fb569,no NOR,MF,29,21,19,1295,14.4,3,0,3,0,0,4,0,0.21,0,0.21,0.21,0.21,Matches
+Henrik Heggheim\8a3aabc1,no NOR,DF,19,17,17,1483,16.5,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+Rolf Daniel Vikstøl\403d44ed,no NOR,DF,31,22,17,1333,14.8,2,1,2,0,0,6,0,0.14,0.07,0.2,0.14,0.2,Matches
+Samúel Friðjónsson\55557b25,is ISL,MF,24,25,16,1493,16.6,5,2,5,0,0,4,0,0.3,0.12,0.42,0.3,0.42,Matches
+Arild Østbø\30263816,no NOR,GK,29,14,13,1241,13.8,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Gianni Stensness\b9549894,au AUS,DF,21,14,13,1179,13.1,1,0,1,0,0,3,0,0.08,0,0.08,0.08,0.08,Matches
+Yann-Erik de Lanlay\42fe6b05,no NOR,FWMF,28,20,10,989,11,1,1,1,0,0,0,0,0.09,0.09,0.18,0.09,0.18,Matches
+Iven Austbø\f461ebf7,no NOR,GK,35,10,10,900,10,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Fredrik Torsteinbø\49e9ac62,no NOR,MFFW,29,10,10,859,9.5,0,1,0,0,0,0,0,0,0.1,0.1,0,0.1,Matches
+David Brekalo\fd594b15,si SVN,DF,22,11,8,783,8.7,2,0,2,0,0,2,1,0.23,0,0.23,0.23,0.23,Matches
+Runar Hove\ee3eec6e,no NOR,DF,25,14,8,782,8.7,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Shayne Pattynama\a9acaa6b,nl NED,DFMF,22,24,7,899,10,2,5,2,0,0,3,0,0.2,0.5,0.7,0.2,0.7,Matches
+Patrik Gunnarsson\4d39152d,is ISL,GK,20,7,7,557,6.2,0,0,0,0,0,0,1,0,0,0,0,0,Matches
+Sondre Bjørshol\d9e76115,no NOR,DF,26,13,6,515,5.7,1,0,1,0,0,1,0,0.17,0,0.17,0.17,0.17,Matches
+Mai Traore\d5f32f5e,cg CGO,FW,21,10,3,253,2.8,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+Sondre Auklend\aa744585,no NOR,FW,17,9,2,232,2.6,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Simen Kvia-Egeskog\63826865,no NOR,FW,17,12,1,188,2.1,0,1,0,0,0,0,0,0,0.48,0.48,0,0.48,Matches
+Herman Haugen\da9f4fa3,no NOR,DF,20,10,0,193,2.1,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Tommy Høiland\b5e2ec59,no NOR,FWMF,31,8,0,85,0.9,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Heine Larsen\56a699c9,no NOR,MF,18,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Sebastian Henriksen\400256ed,no NOR,DF,18,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Kristoffer Paulsen\2971e75f,no NOR,DF,17,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Lars Erik Sødal\a7e03a99,no NOR,DF,18,0,0,,,,,,,,,,,,,,,Matches
+Magnus Ree\cc16342c,no NOR,GK,16,0,0,,,,,,,,,,,,,,,Matches
+Tord Salte\7e6c2512,no NOR,DF,21,0,0,,,,,,,,,,,,,,,Matches
+Trym Sølvberg Ur\1a2cb0f1,no NOR,GK,19,0,0,,,,,,,,,,,,,,,Matches

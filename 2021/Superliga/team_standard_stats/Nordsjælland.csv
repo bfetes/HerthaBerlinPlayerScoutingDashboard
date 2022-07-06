@@ -1,0 +1,37 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+Oliver Rose-Villadsen\cc8165ec,dk DEN,DFMF,19,32,31,2655,29.5,5,5,5,0,0,2,0,0.17,0.17,0.34,0.17,0.34,Matches
+Magnus Kofod Andersen\a4731ebc,dk DEN,MF,22,31,28,2403,26.7,1,0,1,0,0,3,0,0.04,0,0.04,0.04,0.04,Matches
+Kian Hansen\18d226a9,dk DEN,DF,32,26,25,1997,22.2,2,0,2,0,0,1,0,0.09,0,0.09,0.09,0.09,Matches
+Adamo Nagalo\1e1f3918,ci CIV,DF,18,27,23,2028,22.5,1,1,1,0,0,3,1,0.04,0.04,0.09,0.04,0.09,Matches
+Martin Frese\b910e9c0,dk DEN,DFMF,23,30,23,2011,22.3,1,3,1,0,0,5,0,0.04,0.13,0.18,0.04,0.18,Matches
+Simon Adingra\4dcec659,ci CIV,FWMF,19,31,19,1809,20.1,9,3,9,0,0,5,0,0.45,0.15,0.6,0.45,0.6,Matches
+Mohammed Diomande\663629ae,ci CIV,MF,19,25,19,1500,16.7,3,0,3,0,0,7,0,0.18,0,0.18,0.18,0.18,Matches
+Oliver Antman\c63d7d38,fi FIN,FWMF,19,26,16,1479,16.4,5,2,4,1,1,0,0,0.3,0.12,0.43,0.24,0.37,Matches
+Mads Døhr Thychosen\29e298a8,dk DEN,DF,24,17,16,1413,15.7,1,0,1,0,0,3,0,0.06,0,0.06,0.06,0.06,Matches
+Andreas Schjelderup\a427724f,no NOR,FWMF,17,22,16,1357,15.1,4,0,2,2,2,2,0,0.27,0,0.27,0.13,0.13,Matches
+Andreas Hansen\5a98a7bd,dk DEN,GK,25,15,15,1350,15,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Jacob Christensen\324ff0da,dk DEN,MF,20,28,14,1440,16,0,2,0,0,0,1,0,0,0.12,0.12,0,0.12,Matches
+Lasso Coulibaly\78310540,gh GHA,FWMF,18,23,14,1237,13.7,0,4,0,0,0,4,1,0,0.29,0.29,0,0.29,Matches
+Mads Hansen\f04a3092,dk DEN,FWMF,19,15,13,1040,11.6,2,1,2,0,0,0,0,0.17,0.09,0.26,0.17,0.26,Matches
+Francis Abu\66fb354d,gh GHA,MF,20,16,13,1015,11.3,0,0,0,0,0,2,1,0,0,0,0,0,Matches
+Mads Bidstrup\407db0d5,dk DEN,MF,20,13,12,1036,11.5,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+Daniel Svensson\124c9382,se SWE,DFMF,19,27,10,1022,11.4,1,0,1,0,0,1,0,0.09,0,0.09,0.09,0.09,Matches
+Benjamin Nygren\d6ebf67f,se SWE,FWMF,20,12,8,636,7.1,1,0,1,0,0,3,0,0.14,0,0.14,0.14,0.14,Matches
+Emmanuel Ogura\b5528788,gh GHA,GK,19,7,7,630,7,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Erik Marxen\8db2c33b,dk DEN,DF,30,8,7,615,6.8,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Eduardo Dos Santos Haesler\1b9a46d1,de GER,GK,22,5,5,450,5,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Peter Vindahl Jensen\7b433ed0,dk DEN,GK,23,5,5,450,5,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Maxwell Woledzi\2b8798a6,gh GHA,DF,20,14,4,556,6.2,0,1,0,0,0,2,0,0,0.16,0.16,0,0.16,Matches
+Jonas Abbew\c93f728c,dk DEN,DF,19,11,3,347,3.9,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Leo Walta\a0d23533,fi FIN,MF,18,14,2,397,4.4,0,1,0,0,0,2,0,0,0.23,0.23,0,0.23,Matches
+Ibrahim Sadiq\9200d432,gh GHA,MFFW,21,6,2,183,2,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Andreas Pedersen\504a7cfa,dk DEN,FW,18,5,2,145,1.6,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Ernest Nuamah\234a703c,gh GHA,FW,17,9,0,201,2.2,1,0,1,0,0,1,0,0.45,0,0.45,0.45,0.45,Matches
+Willy Kumado\291b879c,,DF,,2,0,46,0.5,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Emeka Nnamani\01ee9593,dk DEN,FW,19,2,0,34,0.4,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+Mel Agnero\bc5fc7b6,ci CIV,FW,18,3,0,33,0.4,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Lucas Lykkegaard\cc5343a8,dk DEN,DF,19,1,0,23,0.3,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rocco Ascone\bdf1db39,fr FRA,FW,17,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Andreas Gülstorff\2fd41861,sy SYR,MF,18,0,0,,,,,,,,,,,,,,,Matches
+Ivan Mesík\7e054ee8,sk SVK,DF,20,0,0,,,,,,,,,,,,,,,Matches
+Andreas Pedersen\51b8ff6d,dk DEN,GK,18,0,0,,,,,,,,,,,,,,,Matches
